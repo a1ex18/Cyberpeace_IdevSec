@@ -1,0 +1,18 @@
+# Frontend dependencies (npm)
+react
+react-dom
+react-router-dom
+axios
+recharts
+framer-motion
+react-hot-toast
+
+# Frontend dev dependencies (npm)
+vite
+typescript
+tailwindcss
+postcss
+autoprefixer
+@vitejs/plugin-react
+@types/react
+@types/react-dom
